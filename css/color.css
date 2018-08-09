@@ -1,0 +1,8 @@
+body{background-color: #DDE1E5;font-family: microsoft yahei;font-size: 0.75em;}
+#loginBox{background-color: #fcfcfc;border-color: #7c7c7c;}/*登陆框边框*/
+#loginBox input{border-color: #ccc;box-shadow:inset 1px 1px 2px 1px #ccc;transition:border-color 0.3s;}
+#loginBox input.focus{border-color: #f26507;}
+#loginBox button{background-color: #144769;color: #fff;box-shadow:1px 1px 2px 1px #205575;transition:opacity 0.3s}
+#loginBox button:active{opacity: 0.8;}
+.dialog{border-color: #ccc;}
+.dialog-mask{background-color: #000;opacity: 0.5;}
